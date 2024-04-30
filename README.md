@@ -40,9 +40,9 @@ Ma liste de modifications prevues sur ma Subaru BRZ
 - Embrayage renforce + Volant moteur allege
 - Bobines d'allumage renforcees
 - Arbre de transmission
-- Passage de 7500 a 8500/9000 tr/min jusqu'a 240Ch MAXI
+- Passage de 7500 a 8600 tr/min (86 x 100) jusqu'a 240Ch MAXI
   - Moteur forge
-  - Admission course
+  - Admission directe ou ITB
 - Rapports de boite
 
 ~~Plus dans mes plans~~
