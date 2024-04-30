@@ -24,6 +24,7 @@ Ma liste de modifications prevues sur ma Subaru BRZ
 - Blitz Thro-Con (Gestion de la sensibilite de la pedale d'accelerateur)
 - Volant MOMO Montecarlo avec surpiqures rouges ~~Nardi Torino perfore~~
 - Baquets BRIDE Zeta IV rouges ~~ou Recaro Sportster CS ou Sieges OEM de GT86 phase 2~~
+- Soufflets BRIDE rouges
 - Harnais homologues routes TAKATA verts ~~Sparco rouges~~
 - Etriers de freins Endless (plaquettes Endless MX72) + Disques
 - Combines filetes KW Variant 3 + reglage aux petits oignons
