@@ -28,7 +28,7 @@ Ma liste de modifications prevues sur ma Subaru BRZ
 - Etriers de freins Endless (plaquettes Endless MX72) + Disques
 - Combines filetes KW Variant 3 + reglage aux petits oignons
 - Pommeau (Ballon de baudruche blanc style Nismo)
-- Jantes Rays Volk ZE40 (couleur bronze) ~~ou Work MCO Racing Type CS (couleur silver)~~
+- Jantes Rays Gramlights 57DR ~~Volk ZE40~~ (couleur bronze) ~~ou Work MCO Racing Type CS (couleur silver)~~
 - ~~Feux AR (Vland ou OEM de BRZ phase 2)~~
 
 ### Plus tard
