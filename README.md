@@ -2,7 +2,7 @@
 
 Ma liste de modifications prevues sur ma Subaru BRZ
 
-### Urgent
+## Urgent
 - Reduction de poids
   - Plaque 3D pour support telephone a la place de l'autoradio ~~Ecran de bord avec Apple Car Play et Android auto~~
   - Suppression systeme audio
@@ -15,12 +15,12 @@ Ma liste de modifications prevues sur ma Subaru BRZ
   - Passage a la 5w40
   - Bouchon d'huile GReddy bleu (pour faire joli et plus voir ce marquage 0w20 ptdr)
 
-### Des que possible
+## Des que possible
 - Barres anti rapprochement AV ~~+AR~~ ~~Blitz~~ Cusco bleue avec cale maitre-cylindre
 - Tube d'admission HKS Carbone ~~Blitz Inox (Suppression du sound generator)~~
 - ~~Retrofit compteur OEM de GT86 phase 2~~
 
-### Apres avoir commence le credit de l'appart
+## Apres avoir commence le credit de l'appart
 - Blitz Thro-Con (Gestion de la sensibilite de la pedale d'accelerateur)
 - Volant MOMO Montecarlo avec surpiqures rouges ~~Nardi Torino perfore~~
 - Baquets BRIDE Zeta IV rouges ~~ou Recaro Sportster CS ou Sieges OEM de GT86 phase 2~~
@@ -31,7 +31,7 @@ Ma liste de modifications prevues sur ma Subaru BRZ
 - Jantes Advan R6 ou RG-D2 dorees a deport chrome ~~Rays Gramlights 57DR~~ ~~Volk ZE40~~ ~~(couleur bronze)~~ ~~ou Work MCO Racing Type CS (couleur silver)~~
 - ~~Feux AR (Vland ou OEM de BRZ phase 2)~~
 
-### Plus tard
+## Plus tard
 - Echappement catalise pour liberer les petits chevaux restreints par le cata stock mais sans toucher aux sorties OEM en 86mm ni aux emissions
 - ~~Parties interieures cuir OEM de GT86 phase 2~~
 - ~~Peinture complete + Design FH5~~
