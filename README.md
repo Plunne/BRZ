@@ -25,7 +25,7 @@ Ma liste de modifications prevues sur ma Subaru BRZ
 - Volant MOMO Montecarlo avec surpiqures rouges ~~Nardi Torino perfore~~
 - Baquets BRIDE Zeta IV rouges ~~ou Recaro Sportster CS ou Sieges OEM de GT86 phase 2~~
 - Harnais homologues routes TAKATA verts ~~Sparco rouges~~
-- Etriers de freins Endless bleus (plaquettes Endless MX72) + Disques
+- Etriers de freins Endless bleus (plaquettes Endless MX72) + Disques + Durites aviation
 - Combines filetes KW Variant 3 + reglage aux petits oignons
 - Pommeau (Ballon de baudruche blanc style Nismo)
 - Jantes Advan R6 ou RG-D2 dorees a deport chrome ~~Rays Gramlights 57DR~~ ~~Volk ZE40~~ ~~(couleur bronze)~~ ~~ou Work MCO Racing Type CS (couleur silver)~~
