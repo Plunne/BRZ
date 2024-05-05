@@ -7,6 +7,7 @@ Ma liste de modifications prevues sur ma Subaru BRZ
   - Plaque 3D pour support telephone a la place de l'autoradio ~~Ecran de bord avec Apple Car Play et Android auto~~
   - Suppression systeme audio
   - Suppression du sound-generator
+- Jantes Advan RG-D2 17x7.5 ET38 ou ~~R6 18x8.0 ET45~~ dorees a deport chrome ~~Rays Gramlights 57DR~~ ~~Volk ZE40~~ ~~(couleur bronze)~~ ~~ou Work MCO Racing Type CS (couleur silver)~~
 - Fiabilisation huile FA20
   - Vidange
   - Cloison de carter d'huile GREDDY + Crepine renforcee
@@ -28,7 +29,6 @@ Ma liste de modifications prevues sur ma Subaru BRZ
 - Etriers de freins Endless bleus (plaquettes Endless MX72) + Disques + Durites aviation
 - Combines filetes KW Variant 3 + reglage aux petits oignons
 - Pommeau (Ballon de baudruche blanc style Nismo)
-- Jantes Advan R6 ou RG-D2 dorees a deport chrome ~~Rays Gramlights 57DR~~ ~~Volk ZE40~~ ~~(couleur bronze)~~ ~~ou Work MCO Racing Type CS (couleur silver)~~
 - ~~Feux AR (Vland ou OEM de BRZ phase 2)~~
 
 ## Plus tard
