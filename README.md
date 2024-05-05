@@ -7,7 +7,7 @@ Ma liste de modifications prevues sur ma Subaru BRZ
   - Plaque 3D pour support telephone a la place de l'autoradio ~~Ecran de bord avec Apple Car Play et Android auto~~
   - Suppression systeme audio
   - Suppression du sound-generator
-- Jantes Advan RG-D2 17x7.5 ET38 ou ~~R6 18x8.0 ET45~~ dorees a deport chrome ~~Rays Gramlights 57DR~~ ~~Volk ZE40~~ ~~(couleur bronze)~~ ~~ou Work MCO Racing Type CS (couleur silver)~~
+- Jantes Advan RG-D2 17x7.5 ET38 ou ~~R6 18x8.0 ET45~~ dorees a deport chrome ~~Rays Gramlights 57DR~~ ~~ou Volk ZE40~~ ~~(couleur bronze)~~ ~~ou Work MCO Racing Type CS (couleur silver)~~
 - Fiabilisation huile FA20
   - Vidange
   - Cloison de carter d'huile GREDDY + Crepine renforcee
@@ -18,7 +18,7 @@ Ma liste de modifications prevues sur ma Subaru BRZ
 
 ## Des que possible
 - Barres anti rapprochement AV ~~+AR~~ ~~Blitz~~ Cusco bleue avec cale maitre-cylindre
-- Tube d'admission HKS Carbone ~~Blitz Inox (Suppression du sound generator)~~
+- ~~Tube d'admission HKS Carbone~~ ~~Blitz Inox (Suppression du sound generator)~~
 - ~~Retrofit compteur OEM de GT86 phase 2~~
 
 ## Apres avoir commence le credit de l'appart
@@ -42,8 +42,8 @@ Ma liste de modifications prevues sur ma Subaru BRZ
 - Bobines d'allumage renforcees
 - Arbre de transmission
 - Passage de 7500 a 8600 tr/min (86 x 100) jusqu'a 240Ch MAXI
-  - Moteur forge
-  - Admission directe ou ITB
+  - Moteur forge (Ptet overkill, a voir...)
+  - Admission directe avec ITB
 - Rapports de boite
 
 ~~Plus dans mes plans~~
