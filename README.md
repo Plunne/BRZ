@@ -7,7 +7,7 @@ Ma liste de modifications prevues sur ma Subaru BRZ
   - Plaque 3D pour support telephone a la place de l'autoradio ~~Ecran de bord avec Apple Car Play et Android auto~~
   - Suppression systeme audio
   - Suppression du sound-generator
-- Jantes Advan RG-D2 17x7.5 ET38 ou ~~R6 18x8.0 ET45~~ dorees a deport chrome ~~Rays Gramlights 57DR~~ ~~ou Volk ZE40~~ ~~(couleur bronze)~~ ~~ou Work MCO Racing Type CS (couleur silver)~~
+- Jantes Advan R6 18x8.0 ET45 ou ~~RG-D2 17x7.5 ET38~~ dorees a deport chrome ~~Rays Gramlights 57DR~~ ~~ou Volk ZE40~~ ~~(couleur bronze)~~ ~~ou Work MCO Racing Type CS (couleur silver)~~
 - Fiabilisation huile FA20
   - Vidange
   - Cloison de carter d'huile GREDDY + Crepine renforcee
