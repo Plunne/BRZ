@@ -34,7 +34,7 @@ Ma liste de modifications prevues sur ma Subaru BRZ
 ## Plus tard (> 5 ans)
 - ~~Volant moteur allege~~
 - [ ] Plaquettes Endless MX72
-- [ ] Etriers de freins BRZ Ts Gen 1 (Brembo rouges) ~~ou BRZ Ts Gen 2 (Brembo oranges)~~ ~~ou Endless (bleus)~~  ~~+ Durites aviation~~
+- [ ] Etriers de freins BRZ Ts Gen 1 (Brembo rouges) ou Endless (bleus) ~~ou BRZ Ts Gen 2 (Brembo oranges)~~ ~~ou Endless (bleus)~~  ~~+ Durites aviation~~
 - ~~Baquets BRIDE Stradia III rouges~~ ~~ou Baquets BRIDE Zeta IV rouges~~ ~~ou Recaro Sportster CS~~ ~~ou Sieges OEM de GT86 phase 2~~
 - ~~Harnais homologues routes TAKATA verts~~ ~~ou Sparco rouges~~
 - ~~Feux AR (Vland ou OEM de BRZ phase 2)~~
