@@ -4,11 +4,11 @@ Ma liste de modifications prevues sur ma Subaru BRZ
 
 ## Urgent (ASAP suite a imprevu mecanique)
 
-- [x] Reparation FA20
+- [x] Remise en etat FA20
   - [x] Coussinets renf.
   - [x] Poulies allegees Greddy
 
-- Fiabilisation huile FA20
+- [x] Fiabilisation huile FA20
   - [x] Cloison de carter d'huile GREDDY + Crepine renforcee
   - [x] Modine Forester (refroidissement d'huile)
   - [x] Passage a la 5w40
@@ -38,7 +38,7 @@ Ma liste de modifications prevues sur ma Subaru BRZ
 - ~~Baquets BRIDE Stradia III rouges~~ ~~ou Baquets BRIDE Zeta IV rouges~~ ~~ou Recaro Sportster CS~~ ~~ou Sieges OEM de GT86 phase 2~~
 - ~~Harnais homologues routes TAKATA verts~~ ~~ou Sparco rouges~~
 - ~~Feux AR (Vland ou OEM de BRZ phase 2)~~
-- ~~Combines filetes KW Variant 3 Clubsport + reglage aux petits oignons~~
+- [ ] Combines filetes Tein Flex Z ou Ohlins ou KW Variant 3 Clubsport + reglage aux petits oignons (A tester....)
 - ~~Embrayage renforce~~
 - [ ] Final ratio plus court (Potentiellement une 6 un peu plus longue pour compenser pour l'autoroute)
 - ~~Echappement catalise EL pour liberer les petits chevaux restreints par le cata stock mais sans toucher aux sorties OEM en 86mm ni aux emissions~~
