@@ -38,7 +38,7 @@ Ma liste de modifications prevues sur ma Subaru BRZ
 - ~~Baquets BRIDE Stradia III rouges~~ ~~ou Baquets BRIDE Zeta IV rouges~~ ~~ou Recaro Sportster CS~~ ~~ou Sieges OEM de GT86 phase 2~~
 - ~~Harnais homologues routes TAKATA verts~~ ~~ou Sparco rouges~~
 - ~~Feux AR (Vland ou OEM de BRZ phase 2)~~
-- [ ] Combines filetes Tein Flex Z ou Ohlins ou ST XTA/KW Variant 3 Clubsport + reglage aux petits oignons (A tester....)
+- [ ] Combines filetes Tein Flex Z ou Ohlins ou ST XTA/KW V3 Clubsport + reglage aux petits oignons (A tester....)
 - ~~Embrayage renforce~~
 - [ ] Final ratio plus court (Potentiellement une 6 un peu plus longue pour compenser pour l'autoroute)
 - ~~Echappement catalise EL pour liberer les petits chevaux restreints par le cata stock mais sans toucher aux sorties OEM en 86mm ni aux emissions~~
