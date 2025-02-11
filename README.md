@@ -18,18 +18,17 @@ Ma liste de modifications prevues sur ma Subaru BRZ
   - [ ] Plaque 3D pour support telephone a la place de l'autoradio
   - [ ] Suppression systeme audio
   - [ ] Suppression du sound-generator
-- [ ] Bouchon d'huile GReddy bleu (pour faire joli et plus voir ce marquage 0w20 ptdr)
-- [ ] Filtre a air Greddy ou HKS
+- [ ] Bouchon d'huile GReddy (pour faire joli et plus voir ce marquage 0w20 ptdr)
+- [ ] Filtre a air K&N
 
 ## Des que possible (> 1 ans)
 - [ ] Barres anti rapprochement AV ~~+AR~~ ~~Blitz~~ Cusco bleue avec cale maitre-cylindre
 - [ ] Tube d'admission en inox Blitz ~~HKS Carbone~~
 - [ ] Volant MOMO Montecarlo avec surpiqures rouges ~~ou Nardi Torino perfore~~
-- ~~Renovation Etriers de frein d'origine~~
+- [ ] Renovation Etriers de frein d'origine
 - ~~Blitz Thro-Con (Gestion de la sensibilite de la pedale d'accelerateur)~~
 - ~~Retrofit compteur OEM de GT86 phase 2~~
-- ~~Pommeau (Ballon de baudruche blanc style Nismo)~~
-- [ ] Rays 57DR (bronze) taille d'origine ~~Jantes Advan RG-4 18x8.0 ET45 (black) + passage en 225/40R18~~ ~~ou R6 18x8.0 ET45~~ ~~ou RG-D2 17x7.5 ET38~~ ~~dorees a deport chrome~~ ~~ou Volk ZE40~~ ~~(couleur bronze)~~ ~~ou Work MCO Racing Type CS (couleur silver)~~
+- Pommeau de GT86 ~~en Ballon de baudruche blanc style Nismo~~
 
 ## Plus tard (> 5 ans)
 - ~~Volant moteur allege~~
@@ -38,6 +37,7 @@ Ma liste de modifications prevues sur ma Subaru BRZ
 - ~~Baquets BRIDE Stradia III rouges~~ ~~ou Baquets BRIDE Zeta IV rouges~~ ~~ou Recaro Sportster CS~~ ~~ou Sieges OEM de GT86 phase 2~~
 - ~~Harnais homologues routes TAKATA verts~~ ~~ou Sparco rouges~~
 - ~~Feux AR (Vland ou OEM de BRZ phase 2)~~
+- [ ] Rays 57DR (bronze) 17 pouces ~~Jantes Advan RG-4 18x8.0 ET45 (black) + passage en 225/40R18~~ ~~ou R6 18x8.0 ET45~~ ~~ou RG-D2 17x7.5 ET38~~ ~~dorees a deport chrome~~ ~~ou Volk ZE40~~ ~~(couleur bronze)~~ ~~ou Work MCO Racing Type CS (couleur silver)~~
 - [ ] Combines filetes Ohlins R&T + reglage aux petits oignons
 - ~~Embrayage renforce~~
 - [ ] Final ratio plus court (Potentiellement une 6 un peu plus longue pour compenser pour l'autoroute)
@@ -50,6 +50,7 @@ Ma liste de modifications prevues sur ma Subaru BRZ
   - ~~Prepa ITB~~
 - ~~Arbre de transmission~~
 
-~~Plus dans mes plans~~
-
-*Tout est liste dans l'ordre de priorites.*
+-----
+### Legende
+- ~~Barre~~ : Plus dans mes plans
+- *Tout est liste dans l'ordre de priorites*
