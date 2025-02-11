@@ -28,7 +28,7 @@ Ma liste de modifications prevues sur ma Subaru BRZ
 - [ ] Renovation Etriers de frein d'origine
 - ~~Blitz Thro-Con (Gestion de la sensibilite de la pedale d'accelerateur)~~
 - ~~Retrofit compteur OEM de GT86 phase 2~~
-- Pommeau de GT86 ~~en Ballon de baudruche blanc style Nismo~~
+- Pommeau de GT86 ou Beatrush Q45
 
 ## Plus tard (> 5 ans)
 - ~~Volant moteur allege~~
