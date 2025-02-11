@@ -37,7 +37,7 @@ Ma liste de modifications prevues sur ma Subaru BRZ
 - ~~Baquets BRIDE Stradia III rouges~~ ~~ou Baquets BRIDE Zeta IV rouges~~ ~~ou Recaro Sportster CS~~ ~~ou Sieges OEM de GT86 phase 2~~
 - ~~Harnais homologues routes TAKATA verts~~ ~~ou Sparco rouges~~
 - ~~Feux AR (Vland ou OEM de BRZ phase 2)~~
-- [ ] Rays 57DR (bronze) 17 pouces ~~Jantes Advan RG-4 18x8.0 ET45 (black) + passage en 225/40R18~~ ~~ou R6 18x8.0 ET45~~ ~~ou RG-D2 17x7.5 ET38~~ ~~dorees a deport chrome~~ ~~ou Volk ZE40~~ ~~(couleur bronze)~~ ~~ou Work MCO Racing Type CS (couleur silver)~~
+- [ ] Jantes Advan RG-D2 (Bronze) ~~ou Rays 57DR en 17 (bronze)~~ ~~ou RG-4 18x8.0 ET45 (black) + passage en 225/40R18~~ ~~ou R6 18x8.0 ET45~~  ~~dorees a deport chrome~~ ~~ou Volk ZE40~~ ~~(couleur bronze)~~ ~~ou Work MCO Racing Type CS (couleur silver)~~
 - [ ] Combines filetes Ohlins R&T + reglage aux petits oignons
 - ~~Embrayage renforce~~
 - [ ] Final ratio plus court (Potentiellement une 6 un peu plus longue pour compenser pour l'autoroute)
