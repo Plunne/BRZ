@@ -31,19 +31,14 @@ Coucou, ici j'ai redige une liste de marques JDM.
 - BN Sports
 - Brembo\*
 - Bride (+ Edirb)
-- Bridgestone\*
 - Carbing
-- Continental\*
 - Cusco
 - Cwest
 - Defi
 - Dixcel
-- Dunlop\*
 - Endless
 - Exedy
-- Falken\*
 - Fujisubo
-- Goodyear\*
 - Greddy (+ Rocket-Bunny, Pandem)
 - Gruppe M (+ K&N\*)
 - HKS
@@ -52,7 +47,6 @@ Coucou, ici j'ai redige une liste de marques JDM.
 - Kansei Service
 - Key's Racing
 - KW\* (+ ST\*)
-- Michelin\*
 - Mine's
 - Momo\*
 - Mugen
@@ -79,14 +73,23 @@ Coucou, ici j'ai redige une liste de marques JDM.
 - Tomei
 - Tom's
 - Top Secret
-- Toyo Tires
 - TRD
 - Uras
 - Valenti
-- Valino
 - Varis
 - Vertex
 - Voltex
+
+## Pneus
+
+- Bridgestone\*
+- Continental\*
+- Dunlop\*
+- Falken\*
+- Goodyear\*
+- Michelin\*
+- Toyo Tires
+- Valino
 - Yokohama
 
 -----
