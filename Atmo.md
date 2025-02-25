@@ -12,7 +12,7 @@ Tableau de comparaison des modeles qui m'ont fait de  l'oeil et qui m'a permit d
 | Nissan     | S13            | X     | X   | X   | X   |      | X      | X    |                     | X        | X                  |             | X     | X                  | X          | X            |
 | Mazda      | RX-7 FC3S      | X     | X   | X   | X   | X    | X      | X    |                     | X        | X                  |             | X     | X                  | X          | X            |
 | Mazda      | RX-7 FD3S      | X     | X   | X   | X   |      |        | X    |                     |          | X                  |             | X     |                    | X          |              |
-| Mazda      | RX-8           |       | X   | X   | X   | X    | X      | X    |                     | X        | X                  | X           | X     |                    | X          | X            |
+| Mazda      | RX-8           |       | X   | X   | X   | X    | X      |      |                     | X        | X                  | X           | X     |                    | X          | X            |
 | Mazda      | Mx-5 ND        | X     | X   | X   | X   | X    | X      | X    | X                   |          | X                  | X           | X     | X                  |            | X            |
 | Nissan     | 350Z           | X     | X   | X   | X   | X    |        |      |                     |          |                    | X           |       |                    | X          |              |
 | Nissan     | 370Z           | X     | X   | X   | X   | X    |        |      |                     |          |                    | X           | X     |                    | X          |              |
