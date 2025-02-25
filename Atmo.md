@@ -4,8 +4,10 @@ Tableau de comparaison des modeles qui m'ont fait de  l'oeil et qui m'a permit d
 
 | Marque     | Modele         | Coupe | RWD | BVM | FAM | Atmo | <250Ch | <1t3 | <9L/100km *(Mixte)* | Pratique | Facile d'entretien | Easter-eggs | Kawai | Interieur agreable | LSD Torsen | Chassis sain |
 |:-----------|:---------------|:-----:|:---:|:---:|:---:|:----:|:------:|:----:|:-------------------:|:--------:|:------------------:|:-----------:|:-----:|:------------------:|:----------:|:------------:|
-| Subaru     | BRZ            | X     | X   | X   | X   | X    | X      | X    | X                   | X        | X                  | X           | X     | X                  | X          | X            |
-| Toyota     | GT86           | X     | X   | X   | X   | X    | X      | X    | X                   | X        | X                  | X           | X     | X                  | X          | X            |
+| Subaru     | BRZ (ZC6)      | X     | X   | X   | X   | X    | X      | X    | X                   | X        | X                  | X           | X     | X                  | X          | X            |
+| Toyota     | GT86 (ZN6)     | X     | X   | X   | X   | X    | X      | X    | X                   | X        | X                  | X           | X     | X                  | X          | X            |
+| Subaru     | BRZ (ZD8)      | X     | X   | X   | X   | X    | X      | X    |                     | X        | X                  |             | X     | X                  | X          | X            |
+| Toyota     | GT86 (ZN8)     | X     | X   | X   | X   | X    | X      | X    |                     | X        | X                  |             | X     | X                  | X          | X            |
 | Nissan     | S15 Spec-S     | X     | X   | X   | X   | X    | X      | X    |                     | X        | X                  |             | X     | X                  | X          | X            |
 | Nissan     | S15 Spec-R     | X     | X   | X   | X   |      | X      | X    |                     | X        | X                  |             | X     | X                  | X          | X            |
 | Nissan     | S14            | X     | X   | X   | X   |      | X      | X    |                     | X        | X                  |             |       |                    | X          | X            |
